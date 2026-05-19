@@ -10,3 +10,4 @@ Analyzing the impact of 25 major geopolitical events on WTI and Brent crude oil 
 Python, XGBoost, Pandas, Seaborn, Matplotlib, Google Colab
 ## Dataset
 Kaggle: Global Oil Prices and Geopolitical Events (2010-2026) by kavyadhyani
+https://www.kaggle.com/datasets/kavyadhyani/global-oil-prices-and-geopolitical-events
